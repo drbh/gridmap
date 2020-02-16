@@ -1,0 +1,12 @@
+[package]
+name = "gridmap"
+version = "0.1.0"
+authors = ["David Holtz <david.richard.holtz@gmail.com>"]
+edition = "2018"
+
+[features]
+default  = []
+external = ["hashbrown"]
+
+[dependencies]
+hashbrown = {version="0.7", optional = true }

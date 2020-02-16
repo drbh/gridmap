@@ -1,6 +1,6 @@
 # GridMap
 
-<img src="https://giphy.com/gifs/loop-vaporwave-oSYflamt3IEjm/fullscreen" width="300px"/>
+<img src="https://media.giphy.com/media/oSYflamt3IEjm/giphy.gif" width="500px"/>
 
 GridMap is a small, pragmatic and simple data structure for storing data in a X, Y grid.
 
